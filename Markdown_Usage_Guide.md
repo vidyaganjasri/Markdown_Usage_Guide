@@ -28,4 +28,4 @@ Lists: Use - or * for unordered lists, and numbers for ordered lists.
 
 Images: Use ![alt text](image URL) for images.
 
-![Image](https://example.com/image.png)
+![Image](https://in.pinterest.com/pin/87468417756387545/)
